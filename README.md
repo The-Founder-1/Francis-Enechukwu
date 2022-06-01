@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any good project of any kind.
 - 📫 How to reach me @enechukwufrancis4@gmail.com
 - i'm also good in website designing.
-- i'm currently happy to here.
+- i'm currently happy to be here.
 
 <!---
 The-Founder-1/The-Founder-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
