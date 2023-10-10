@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @The-Founder-1
-- 👀 I’m interested in learning python language,reactive.js and swift language.
-- 🌱 I’m currently learning node.js .
-- 💞️ I’m looking to collaborate on any good project of any kind.
-- 📫 How to reach me @enechukwufrancis4@gmail.com
-- i'm also good in website designing.
+- 👀 I’m currently learning python language.
 - i'm currently happy to be here.
 
 <!---
